@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: faf0b08f6d877a84087949b9ae1a44a7
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - currentHealthbar: {instanceID: 0}
+  - ratioText: {instanceID: 0}
+  - projectile: {instanceID: 0}
+  - healthDrop: {instanceID: 0}
+  - deathSound: {fileID: 8300000, guid: db1edf89fb56d5440a940c5ab3d57086, type: 3}
+  - healthUp: {fileID: 8300000, guid: e5d4d0082a45e764ebcc2a15f93d538a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
